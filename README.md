@@ -1,2 +1,0 @@
-# sxios
-ts-axios
